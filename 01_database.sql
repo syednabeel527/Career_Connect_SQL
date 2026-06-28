@@ -1,4 +1,5 @@
-studentsCREATE TABLE Students (
+use career_connect_db;
+CREATE TABLE Students (
 Name varchar(30),
 Email varchar(30),
 Phone_No varchar(10),
